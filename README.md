@@ -13,3 +13,6 @@ IDENTITAS :
 ![program matriks](https://user-images.githubusercontent.com/59870954/72350874-d83bf080-3711-11ea-8193-6feca91443b6.PNG)
 
 ![matriks](https://user-images.githubusercontent.com/59870954/72350950-f9044600-3711-11ea-9cd2-0e5856433b51.PNG)
+
+![matriks2](https://user-images.githubusercontent.com/59870954/72403215-e75b8680-3783-11ea-84c5-160c843e8bbf.PNG)
+
